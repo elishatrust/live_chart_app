@@ -1,4 +1,4 @@
-# live_chart_app ::: Live Chart Application
+# Live Chart Application
 
 ## Technologies used
 
