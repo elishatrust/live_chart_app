@@ -1,2 +1,7 @@
-# live_chart_app
- PHP, JavaScript, MySQL ::: Live Chart Application
+# Live Chart Application
+
+## Technologies used
+
+1. PHP
+2. JavaScript
+3. MySQL
