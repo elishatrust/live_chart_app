@@ -1,4 +1,4 @@
-@import url();
+@import url('https://fonts.googleapis.com/css?family=Sofia');
 
 * {
     margin: 0;
@@ -99,6 +99,7 @@ body .wrapper{
     border-radius: 5px;
     cursor: pointer;
     margin-top: 13px;
+    background: #000;
 }
 
 .form form .field i{

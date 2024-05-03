@@ -19,11 +19,11 @@ include_once "header.php"
             <div class="error-text"></div>
             <div class="field input">
                 <label for="">Email <span class="text-danger">*</span></label>
-                <input type="email" name="email" id="email" placeholder="Enter email address">
+                <input type="email" name="email" id="email" placeholder="Enter email address" required>
             </div>
             <div class="field input">
                 <label for="">Password <span class="text-danger">*</span></label>
-                <input type="password" name="password" id="password" placeholder="Enter password">
+                <input type="password" name="password" id="password" placeholder="Enter password" required>
                 <i class="fas fa-eye"></i>
             </div>
             <div class="field button">
